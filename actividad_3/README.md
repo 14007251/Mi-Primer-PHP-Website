@@ -39,4 +39,4 @@ Luego abre en tu navegador: `http://localhost:8000/index.php`
 
    * **Nombre:** Jose Carlos Roque Iriarte
    * **Correo:** 14007251@galileo.edu
-   * **Carnet:** 14007251
+   * **Carnet:** 14007251 
