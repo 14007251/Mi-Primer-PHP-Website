@@ -1,4 +1,4 @@
-# Mi Primer Website con PHP - el bueno
+# Mi Primer Website con PHP
 
 ## Descripción
 Proyecto web desarrollado en PHP que despliega un saludo personalizado y una imagen generada mediante Inteligencia Artificial (Leonardo IA). El objetivo es demostrar la correcta configuración de un entorno de servidor web interpretado.
